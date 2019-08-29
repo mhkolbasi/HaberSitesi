@@ -1,6 +1,6 @@
 # HaberSitesi
-<b>Teknoloji</b>: Spring MVC, Hibernate, Mysql, Javascript, Bootstrap <br>
-<b>Admin Panel</b> Yetenekleri: Session kontrol ile güvenli oturum denetimi 
+<b>Teknoloji:</b> Spring MVC, Hibernate, Mysql, Javascript, Bootstrap <br>
+<b>Admin Panel Yetenekleri:</b> Session kontrol ile güvenli oturum denetimi 
 Haberler için CRUD işlemlerinin gerçekleştirilmesi
 <br>
 <img width="960" alt="Haber1" src="https://user-images.githubusercontent.com/53636503/63943018-83a41b80-ca77-11e9-884d-6460787e92af.PNG">
